@@ -234,9 +234,9 @@ main {
   margin-top: 1rem;
 }
 
-.main__content2 iframe {
+.main__content2 {
   width: 0%;
-  aspect-ratio: 16/9;
+  margin-top: 2rem;
 }
 
 .technologies {
@@ -268,8 +268,8 @@ main {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  width: 4.8rem;
-  height: 4.8rem;
+  width: 5rem;
+  height: 5rem;
   aspect-ratio: 1/1;
   border: 1px solid var(--secondary-border-color);
   border-radius: 50rem;
