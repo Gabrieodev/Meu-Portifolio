@@ -46,7 +46,7 @@ toggleButton.addEventListener("click", (e) => {
     // animar scroll para subir antes de recolher
     const duration = 400;
     const initialScroll = window.scrollY;
-    const targetScroll = Math.max(0, initialScroll - 1500);
+    const targetScroll = Math.max(0, initialScroll - 1800);
 
     let startTime = null;
 
